@@ -1,3 +1,8 @@
+/*
+IMPORTANTE, LA UMG NO SE RESPONSABILIZA POR DANIOS CAUSADOS A SU CARRO, ADIOS.!
+
+
+ */
 #include "Propietario.cpp"
 #include <iostream>
 

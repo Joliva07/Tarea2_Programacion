@@ -1,3 +1,11 @@
+/*
+EN ESTE NUEVO PROYECTASO
+LOS JOVENES DE QUINTO BACHILLERATO
+APRENDIEORN A USAR GITHUB 
+JAJA ETC GRACIAS
+*/
+
+
 //#include "Persona.cpp"
 #include <iostream>
 using namespace std;
